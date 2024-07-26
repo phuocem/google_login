@@ -1,0 +1,67 @@
+ .nen{
+    border: 1px solid #000000;
+    background-color: white;
+    border-radius: 10px;
+    width: 600px;
+    height: 200px;
+    display: flex;
+}
+.khungl{
+    width: 45%;
+    height: 100%;
+    padding: 20px;
+}
+.khungn{
+    width: 55%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.khung{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(201, 216, 216);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.khung2{
+    border-radius: 5px;
+    border: 1px solid #000000;
+    background-color: white;
+    width: 300px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+p {
+    font-size: 10px;
+}
+.button_create{
+    color:rgb(5, 80, 185);
+    background-color: rgb(253, 253, 253);
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 10px;
+}
+.button_new{
+    color: white;
+    background-color: rgb(5, 80, 185);
+    border: 10px;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 10px;
+}
+.nenbutton{
+    display: flex;
+    justify-content: end;
+    width: 97%;
+    
+}
+.img{
+    height: 24px;
+    width: 24px;
+}
